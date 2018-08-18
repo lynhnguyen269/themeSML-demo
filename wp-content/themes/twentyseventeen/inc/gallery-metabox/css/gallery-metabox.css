@@ -1,0 +1,13 @@
+#gallery-metabox-list {
+    display: inline-block;
+    width: 98%;
+    padding: 10px;
+    border: 5px dashed #ccc;
+}
+#gallery-metabox-list li {
+    float: left;
+    width: 150px;
+    text-align: center;
+    margin: 10px 10px 10px 0;
+    cursor: move;
+}

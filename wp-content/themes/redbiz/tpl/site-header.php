@@ -1,0 +1,1 @@
+<?php $header_style = themesflat_choose_opt('header_style');echo '<div class="themesflat_header_wrap '.esc_attr( themesflat_choose_opt('header_style') ).'" data-header_style="'.$header_style.'">';switch ( $header_style ):    case 'header-style1':        get_template_part( 'tpl/header/header-style1');        break;endswitch;echo '</div>';?> 

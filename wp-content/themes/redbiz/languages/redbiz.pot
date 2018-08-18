@@ -1,0 +1,1363 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: redbiz\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-02 02:42+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:72
+#, php-format
+msgid " %1$s"
+msgstr ""
+
+#: inc/helpers.php:177
+msgid " library"
+msgstr ""
+
+#: inc/customizer.php:317 inc/customizer.php:981 inc/customizer.php:1041
+#: inc/customizer.php:1229 inc/customizer.php:1292 inc/customizer.php:2170
+#: inc/customizer.php:2496
+msgid " Opacity =1 for Background Color"
+msgstr ""
+
+#: comments.php:73
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: inc/options/controls/dropdown-sidebars.php:15
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: comments.php:25
+msgid "(Edit)"
+msgstr ""
+
+#: inc/options/options-definition.php:480
+msgid "-- Select --"
+msgstr ""
+
+#: inc/options/options-definition.php:252
+msgid "1 Stars"
+msgstr ""
+
+#: inc/options/options-definition.php:758
+msgid "2 Columns"
+msgstr ""
+
+#: inc/options/options-definition.php:251
+msgid "2 Stars"
+msgstr ""
+
+#: inc/options/options-definition.php:757
+msgid "3 Columns"
+msgstr ""
+
+#: inc/options/options-definition.php:250
+msgid "3 Stars"
+msgstr ""
+
+#: inc/options/options-definition.php:759
+msgid "4 Columns"
+msgstr ""
+
+#: inc/options/options-definition.php:249
+msgid "4 Stars"
+msgstr ""
+
+#: 404.php:14
+msgid "404"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumb-trail.php:177
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/options/options-definition.php:248
+msgid "5 Stars"
+msgstr ""
+
+#: inc/options/options.php:128
+msgid "Add file"
+msgstr ""
+
+#: inc/options/options.php:265
+msgid "Add files"
+msgstr ""
+
+#: functions.php:138 functions.php:148 functions.php:158 functions.php:180
+msgid "Add widgets here to appear in your sidebar Footer1."
+msgstr ""
+
+#: functions.php:190
+msgid "Add widgets here to appear in your sidebar Footer2."
+msgstr ""
+
+#: functions.php:200
+msgid "Add widgets here to appear in your sidebar Footer3."
+msgstr ""
+
+#: functions.php:210
+msgid "Add widgets here to appear in your sidebar Footer4."
+msgstr ""
+
+#: functions.php:220
+msgid "Add widgets here to appear in your sidebar Footer5."
+msgstr ""
+
+#: functions.php:169
+msgid "Add widgets here to appear in your sidebar Woocommerce Sidebar."
+msgstr ""
+
+#: inc/options/options-definition.php:318
+msgid "Address"
+msgstr ""
+
+#: widgets/themesflat_recent_post.php:136
+msgid "All"
+msgstr ""
+
+#: inc/options/options-definition.php:740
+msgid "All options in this section will be used to make style for blog page."
+msgstr ""
+
+#: tpl/page-title.php:7 inc/breadcrumb-trail/breadcrumb-trail.php:178
+msgid "Archives"
+msgstr ""
+
+#: inc/options/options-definition.php:725
+msgid "Ascending"
+msgstr ""
+
+#: inc/options/options-definition.php:710
+msgid "Author"
+msgstr ""
+
+#: tpl/page-title.php:34
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: widgets/themesflat_testimonial.php:126
+msgid "Auto Play ?"
+msgstr ""
+
+#: woocommerce/templates/single-product/product-image.php:62
+msgid "Awaiting product image"
+msgstr ""
+
+#: 404.php:34
+msgid "Back Home"
+msgstr ""
+
+#. Name of the template
+#: inc/metabox-options.php:32 inc/metabox-options.php:46
+#: inc/options/options-definition.php:739
+msgid "Blog"
+msgstr ""
+
+#: inc/options/options-definition.php:765
+msgid "Blog Layout"
+msgstr ""
+
+#: functions.php:136
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/options/controls/typography.php:66
+msgid "Bold 700"
+msgstr ""
+
+#: inc/options/controls/typography.php:67
+msgid "Bold 700 italic"
+msgstr ""
+
+#: functions.php:84
+msgid "Bottom Menu"
+msgstr ""
+
+#: inc/customizer.php:2796 inc/options/options-definition.php:374
+msgid "Boxed"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumb-trail.php:175
+msgid "Browse:"
+msgstr ""
+
+#: widgets/themesflat_categories.php:28
+msgid "Categories."
+msgstr ""
+
+#: content-portfolio.php:64 content-portfolio.php:130
+msgid "Category :"
+msgstr ""
+
+#: inc/metabox-options.php:9
+msgid "Causes Settings"
+msgstr ""
+
+#: inc/options/options-definition.php:601
+msgid ""
+"Change options in this section to custom style for portfolio listing page."
+msgstr ""
+
+#: widgets/themesflat_categories.php:94
+msgid "Child Of:"
+msgstr ""
+
+#: inc/options/options-definition.php:356
+msgid ""
+"Choose between a full or a boxed layout to set how this page layout will "
+"look like."
+msgstr ""
+
+#: inc/options/options-definition.php:486
+msgid "Choose menu for page"
+msgstr ""
+
+#: widgets/themesflat_testimonial.php:141
+msgid "Class:"
+msgstr ""
+
+#: inc/helpers.php:511
+msgid "Classic"
+msgstr ""
+
+#: content-portfolio.php:72 content-portfolio.php:124
+msgid "Client :"
+msgstr ""
+
+#: inc/customizer.php:316
+msgid "Client Backgound"
+msgstr ""
+
+#: inc/options/options-definition.php:714
+msgid "Comment count"
+msgstr ""
+
+#: comments.php:71
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:79
+msgid "Comments are closed."
+msgstr ""
+
+#. Name of the template
+msgid "CommingSoon"
+msgstr ""
+
+#: widgets/themesflat_contact_us.php:28
+msgid "Contact Us"
+msgstr ""
+
+#: inc/options/options-definition.php:456
+msgid "Content Left Topbar"
+msgstr ""
+
+#: widgets/themesflat_contact_us.php:83
+msgid "Content:"
+msgstr ""
+
+#: widgets/themesflat_categories.php:86 widgets/themesflat_recent_post.php:164
+msgid "Count:"
+msgstr ""
+
+#: inc/helpers.php:583
+msgid "Create a Menu"
+msgstr ""
+
+#: widgets/themesflat_categories.php:90
+msgid "Custom Categories By Ids- EX: 1,2,3"
+msgstr ""
+
+#: inc/options/options-definition.php:559
+msgid "Custom Footer"
+msgstr ""
+
+#: inc/options/options-definition.php:400
+msgid "Custom Page Class"
+msgstr ""
+
+#: inc/options/options-definition.php:392
+msgid "Custom Sidebar"
+msgstr ""
+
+#: inc/options/controls/typography.php:79
+msgid "Cyrillic"
+msgstr ""
+
+#: inc/options/controls/typography.php:75
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumb-trail.php:765
+#: inc/breadcrumb-trail/breadcrumb-trail.php:1049
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: tpl/page-title.php:37
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: inc/options/options-definition.php:708
+msgid "Date"
+msgstr ""
+
+#: content-portfolio.php:74 content-portfolio.php:138
+msgid "Date :"
+msgstr ""
+
+#: tpl/comming-soon.php:22
+msgid "DAY"
+msgstr ""
+
+#: inc/options/options-definition.php:265
+msgid "Dear friends,"
+msgstr ""
+
+#: inc/options/options-definition.php:726
+msgid "Descending"
+msgstr ""
+
+#: inc/helpers.php:32
+msgid "Design Options"
+msgstr ""
+
+#: inc/options/options-definition.php:369
+msgid "Display Style"
+msgstr ""
+
+#: inc/options/options-definition.php:428
+msgid "Display Topbar On This Page"
+msgstr ""
+
+#: content-page.php:30 inc/template-tags.php:82
+#: inc/breadcrumb-trail/breadcrumb-trail.php:1140
+#: inc/breadcrumb-trail/breadcrumb-trail.php:1176
+#: inc/breadcrumb-trail/breadcrumb-trail.php:1193
+#: inc/breadcrumb-trail/breadcrumb-trail.php:1224
+msgid "Edit"
+msgstr ""
+
+#: inc/options/options-definition.php:580
+msgid "Enable CallBack Footer"
+msgstr ""
+
+#: inc/options/options-definition.php:745
+msgid "Enable Custom Blog layout"
+msgstr ""
+
+#: inc/options/options-definition.php:565
+msgid "Enable Custom Footer Content"
+msgstr ""
+
+#: inc/options/options-definition.php:506
+msgid "Enable Custom Footer Widgets"
+msgstr ""
+
+#: inc/options/options-definition.php:361
+msgid "Enable Custom Layout"
+msgstr ""
+
+#: inc/options/options-definition.php:471
+msgid "Enable Custom Navigator"
+msgstr ""
+
+#: inc/options/options-definition.php:606
+msgid "Enable Custom Portfolio layout"
+msgstr ""
+
+#: inc/options/options-definition.php:420
+msgid "Enable Custom Topbar"
+msgstr ""
+
+#: inc/options/options-definition.php:573
+msgid "Enable Slide Client"
+msgstr ""
+
+#: inc/options/options-definition.php:435
+msgid "Enable Social Links Topbar"
+msgstr ""
+
+#: inc/helpers.php:183
+msgid "Entypo"
+msgstr ""
+
+#: inc/options/options-definition.php:325
+msgid "Event date time"
+msgstr ""
+
+#: inc/options/options-definition.php:304
+msgid "Events"
+msgstr ""
+
+#: widgets/themesflat_testimonial.php:137
+msgid "Exclude:"
+msgstr ""
+
+#: inc/options/controls/typography.php:68
+msgid "Extra-bold 800"
+msgstr ""
+
+#: inc/options/controls/typography.php:69
+msgid "Extra-bold 800 italic"
+msgstr ""
+
+#: inc/options/controls/typography.php:54
+msgid "Extra-light 200"
+msgstr ""
+
+#: inc/options/controls/typography.php:55
+msgid "Extra-light 200 italic"
+msgstr ""
+
+#: inc/helpers.php:180
+msgid "Font Awesome"
+msgstr ""
+
+#: inc/options/controls/typography.php:194
+msgid "Font Color"
+msgstr ""
+
+#: inc/helpers.php:189
+msgid "Font Elegant"
+msgstr ""
+
+#: inc/options/controls/typography.php:98
+msgid "Font Family"
+msgstr ""
+
+#: inc/helpers.php:191
+msgid "Font Icomoon Icons"
+msgstr ""
+
+#: inc/helpers.php:188
+msgid "Font Ionicons"
+msgstr ""
+
+#: inc/options/controls/typography.php:120
+msgid "Font Size (px)"
+msgstr ""
+
+#: inc/options/controls/typography.php:168
+msgid "Font subsets"
+msgstr ""
+
+#: inc/helpers.php:190
+msgid "Font Themify Icons"
+msgstr ""
+
+#: inc/options/controls/typography.php:143
+msgid "Font Weight & Style"
+msgstr ""
+
+#: inc/metabox-options.php:29
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:1228
+msgid "Footer Backgound"
+msgstr ""
+
+#: functions.php:83
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:178
+msgid "Footer Widget 1"
+msgstr ""
+
+#: functions.php:188
+msgid "Footer Widget 2"
+msgstr ""
+
+#: functions.php:198
+msgid "Footer Widget 3"
+msgstr ""
+
+#: functions.php:208
+msgid "Footer Widget 4"
+msgstr ""
+
+#: functions.php:218
+msgid "Footer Widget 5"
+msgstr ""
+
+#: inc/options/options-definition.php:529
+msgid "Footer Widget Area 1"
+msgstr ""
+
+#: inc/options/options-definition.php:536
+msgid "Footer Widget Area 2"
+msgstr ""
+
+#: inc/options/options-definition.php:543
+msgid "Footer Widget Area 3"
+msgstr ""
+
+#: inc/options/options-definition.php:550
+msgid "Footer Widget Area 4"
+msgstr ""
+
+#: inc/options/options-definition.php:514
+msgid "Footer Widget Layout"
+msgstr ""
+
+#: inc/options/options-definition.php:500
+msgid "Footer Widgets"
+msgstr ""
+
+#: inc/customizer.php:2822
+msgid "footer_default"
+msgstr ""
+
+#: inc/customizer.php:2826
+msgid "Four"
+msgstr ""
+
+#. Name of the template
+msgid "Front Page"
+msgstr ""
+
+#. Name of the template
+msgid "Full width Page"
+msgstr ""
+
+#: inc/metabox-options.php:14 inc/metabox-options.php:27
+msgid "General"
+msgstr ""
+
+#: widgets/themesflat_recent_post.php:160
+msgid "Get Post by IDS EX:1,2,3"
+msgstr ""
+
+#: inc/options/controls/typography.php:76
+msgid "Greek"
+msgstr ""
+
+#: inc/options/controls/typography.php:77
+msgid "Greek Extended"
+msgstr ""
+
+#: inc/customizer.php:2810
+msgid "Grid"
+msgstr ""
+
+#: inc/options/options-definition.php:754
+msgid "Grid Columns"
+msgstr ""
+
+#: inc/options/options-definition.php:626
+msgid "Grid Or Masonry"
+msgstr ""
+
+#: inc/metabox-options.php:28
+msgid "Header"
+msgstr ""
+
+#: inc/helpers.php:512
+msgid "Header style 02"
+msgstr ""
+
+#: inc/options/options-definition.php:800
+msgid "Hide Content"
+msgstr ""
+
+#: tpl/page-title.php:11 tpl/page-title.php:66
+#: inc/breadcrumb-trail/breadcrumb-trail.php:176
+msgid "Home"
+msgstr ""
+
+#: tpl/comming-soon.php:26
+msgid "HOUR"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumb-trail.php:747
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#. URI of the theme
+msgid "http://corpthemes.com/wordpress/redbiz/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/themesflat/portfolio"
+msgstr ""
+
+#: inc/helpers.php:243 inc/helpers.php:263 inc/helpers.php:284
+#: inc/helpers.php:304 inc/helpers.php:325 inc/helpers.php:346
+msgid "Icon"
+msgstr ""
+
+#: inc/options/options-definition.php:709
+msgid "ID"
+msgstr ""
+
+#: inc/options/options-definition.php:293
+msgid "iframe video link"
+msgstr ""
+
+#: inc/options/options-definition.php:199
+#: inc/options/options-definition.php:279
+msgid "Images"
+msgstr ""
+
+#: widgets/themesflat_testimonial.php:133
+msgid "Include:"
+msgstr ""
+
+#: content-none.php:35
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/options/options-definition.php:465
+msgid ""
+"Just select your menu that you wish assign it to the location on the theme."
+msgstr ""
+
+#: inc/options/controls/typography.php:81
+msgid "Latin"
+msgstr ""
+
+#: inc/options/controls/typography.php:78
+msgid "Latin Extended"
+msgstr ""
+
+#: inc/options/options-definition.php:355
+msgid "Layout"
+msgstr ""
+
+#: comments.php:90
+msgid "Leave A Reply"
+msgstr ""
+
+#: inc/options/controls/typography.php:56
+msgid "Light 300"
+msgstr ""
+
+#: inc/options/controls/typography.php:57
+msgid "Light 300 italic"
+msgstr ""
+
+#: widgets/themesflat_testimonial.php:129
+msgid "Limit:"
+msgstr ""
+
+#: inc/options/controls/typography.php:132
+msgid "Line_height (px)"
+msgstr ""
+
+#: inc/helpers.php:184
+msgid "Linecons"
+msgstr ""
+
+#: inc/options/options-definition.php:332
+msgid "Link to join"
+msgstr ""
+
+#: inc/customizer.php:1520 tpl/pagination.php:46
+#: inc/options/options-definition.php:698
+#: inc/options/options-definition.php:828
+msgid "Load More"
+msgstr ""
+
+#: inc/pagination.php:61
+msgid "Load more"
+msgstr ""
+
+#: inc/customizer.php:1040
+msgid "Mainnav Background"
+msgstr ""
+
+#: inc/helpers.php:186
+msgid "Material"
+msgstr ""
+
+#: inc/options/controls/typography.php:62
+msgid "Medium 500"
+msgstr ""
+
+#: inc/options/controls/typography.php:63
+msgid "Medium 500 italic"
+msgstr ""
+
+#: inc/options/options-definition.php:715
+msgid "Menu order"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumb-trail.php:1172
+msgid "Merge"
+msgstr ""
+
+#: comments.php:104
+msgid "Message"
+msgstr ""
+
+#: tpl/comming-soon.php:31
+msgid "MINUTE"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: inc/breadcrumb-trail/breadcrumb-trail.php:184
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumb-trail.php:713
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumb-trail.php:730
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/helpers.php:513
+msgid "Modern"
+msgstr ""
+
+#: inc/options/options-definition.php:712
+msgid "Modified"
+msgstr ""
+
+#: inc/helpers.php:185
+msgid "Mono Social"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumb-trail.php:764
+#: inc/breadcrumb-trail/breadcrumb-trail.php:828
+#: inc/breadcrumb-trail/breadcrumb-trail.php:1045
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: tpl/page-title.php:39
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: inc/options/options-definition.php:214
+msgid "Name Client Portfolio"
+msgstr ""
+
+#: inc/options/options-definition.php:464
+msgid "Navigator"
+msgstr ""
+
+#: comments.php:74
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: tpl/pagination.php:44
+msgid "Next"
+msgstr ""
+
+#: inc/template-tags.php:104
+msgid "Next Post"
+msgstr ""
+
+#: inc/options/options-definition.php:253
+msgid "No Rating"
+msgstr ""
+
+#: inc/options/options-definition.php:384
+msgid "No Sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "No title page"
+msgstr ""
+
+#: inc/helpers.php:179
+msgid "None"
+msgstr ""
+
+#: inc/options/controls/typography.php:58
+#: inc/options/controls/typography.php:60
+msgid "Normal 400"
+msgstr ""
+
+#: inc/options/controls/typography.php:59
+#: inc/options/controls/typography.php:61
+msgid "Normal 400 italic"
+msgstr ""
+
+#: tpl/page-title.php:30
+msgid "Not Found"
+msgstr ""
+
+#: inc/options/options-definition.php:679
+msgid "Not Show these portfolios by IDs EX:1,2,3"
+msgstr ""
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/customizer.php:2783 inc/options/options-definition.php:697
+#: inc/options/options-definition.php:826
+msgid "Numeric"
+msgstr ""
+
+#: inc/customizer.php:2823
+msgid "One"
+msgstr ""
+
+#: widgets/themesflat_recent_post.php:92
+msgid "Oops, category not found."
+msgstr ""
+
+#: inc/helpers.php:181
+msgid "Open Iconic"
+msgstr ""
+
+#: inc/options/options-definition.php:266
+msgid "Option just view if post format is gallery or video! <br/>Thanks!"
+msgstr ""
+
+#: inc/options/options-definition.php:705
+msgid "Order By"
+msgstr ""
+
+#: inc/options/options-definition.php:722
+msgid "Order Direction"
+msgstr ""
+
+#: inc/js_composer.php:7
+msgid "Overlay Color"
+msgstr ""
+
+#. %s is the page number.
+#: inc/helpers.php:721 inc/breadcrumb-trail/breadcrumb-trail.php:182
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/customizer.php:2179 inc/customizer.php:2186
+msgid "Page Breadcrumb"
+msgstr ""
+
+#: 404.php:18
+msgid "Page not Found"
+msgstr ""
+
+#: inc/metabox-options.php:21
+msgid "Page Options"
+msgstr ""
+
+#: functions.php:146
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:156
+msgid "Page Sidebar Single"
+msgstr ""
+
+#: inc/customizer.php:2019
+msgid "Page Title & Breadcrumb"
+msgstr ""
+
+#: inc/customizer.php:2169
+msgid "Page Title Overlay Color"
+msgstr ""
+
+#: inc/customizer.php:2026 inc/customizer.php:2033
+msgid "Page Title Style"
+msgstr ""
+
+#: inc/customizer.php:2782 inc/options/options-definition.php:825
+msgid "Pager"
+msgstr ""
+
+#: inc/customizer.php:2784 inc/options/options-definition.php:827
+msgid "Pager & Numeric"
+msgstr ""
+
+#: content-page.php:24 content-single.php:26 content.php:34
+msgid "Pages:"
+msgstr ""
+
+#: inc/options/options-definition.php:693
+#: inc/options/options-definition.php:821
+msgid "Pagination Style"
+msgstr ""
+
+#. Name of the template
+#: inc/metabox-options.php:30 inc/options/options-definition.php:192
+#: inc/options/options-definition.php:600
+msgid "Portfolio"
+msgstr ""
+
+#: inc/options/options-definition.php:672
+msgid ""
+"Portfolio categories order.EX:travel,aviation,business. Leave empty for auto "
+"load"
+msgstr ""
+
+#: inc/options/options-definition.php:658
+msgid "Portfolio Content Length"
+msgstr ""
+
+#: inc/options/options-definition.php:651
+msgid "Portfolio Show Content"
+msgstr ""
+
+#: inc/options/options-definition.php:644
+msgid "Portfolio Show Date"
+msgstr ""
+
+#: inc/options/options-definition.php:665
+msgid "Portfolio Show Read More"
+msgstr ""
+
+#: inc/options/options-definition.php:614
+msgid "Portfolio Style"
+msgstr ""
+
+#: inc/options/options-definition.php:238
+#: inc/options/options-definition.php:311
+msgid "Position"
+msgstr ""
+
+#: comments.php:92
+msgid "Post Comment"
+msgstr ""
+
+#: inc/options/options-definition.php:778
+msgid "Post Excepts Length"
+msgstr ""
+
+#: inc/options/options-definition.php:272
+msgid "Post Format: Gallery ."
+msgstr ""
+
+#: inc/options/options-definition.php:286
+msgid "Post Format: Video ( Embeded video from youtube, vimeo ...)."
+msgstr ""
+
+#: inc/options/options-definition.php:807
+msgid "Post IDs will be inorged. Ex: 1,2,3"
+msgstr ""
+
+#: inc/template-tags.php:97
+msgid "Post navigation"
+msgstr ""
+
+#: inc/metabox-options.php:41
+msgid "Post settings"
+msgstr ""
+
+#: inc/options/options-definition.php:687
+#: inc/options/options-definition.php:815
+msgid "Posts Per Page"
+msgstr ""
+
+#: tpl/pagination.php:45
+msgid "Previous"
+msgstr ""
+
+#: inc/template-tags.php:103
+msgid "Previous Post"
+msgstr ""
+
+#: functions.php:82
+msgid "Primary Menu"
+msgstr ""
+
+#: woocommerce/templates/global/quantity-input.php:33
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: content-portfolio.php:62
+msgid "Project Information"
+msgstr ""
+
+#: content-portfolio.php:134
+msgid "Project Url :"
+msgstr ""
+
+#: inc/template-tags.php:101
+msgid "Published In"
+msgstr ""
+
+#: woocommerce/templates/global/quantity-input.php:32
+msgid "Quantity"
+msgstr ""
+
+#: inc/options/options-definition.php:713
+msgid "Random"
+msgstr ""
+
+#: inc/options/options-definition.php:245
+msgid "Ratings"
+msgstr ""
+
+#: inc/options/options-definition.php:793
+msgid "Read More Text"
+msgstr ""
+
+#: widgets/themesflat_recent_post.php:31
+msgid "Recent Post."
+msgstr ""
+
+#. Name of the theme
+msgid "redbiz"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"redbiz is a clean and professional site template, perfect for ,  any "
+"business and personal chef web sites. Built on the Advanced Bootstrap 3 "
+"framework with HTML5 / CSS3. Its responsive too – Will fit great on all "
+"devices. More features with 5 Homepages (Full Screen, One Page, Video One "
+"Page, Video Full Screen One Page, Full Screen One Page, Parallax, Video "
+"Parallax, Video Full Screen),  and much more gives you more space to work "
+"with and also with a few lines of code"
+msgstr ""
+
+#: tpl/related-post.php:25
+msgid "Related Posts"
+msgstr ""
+
+#: woocommerce/templates/single-product/related.php:40
+msgid "Related Products"
+msgstr ""
+
+#: inc/options/options.php:132 inc/options/options.php:269
+msgid "Remove"
+msgstr ""
+
+#. %s is the search query. The HTML entities are opening and closing curly quotes.
+#: inc/breadcrumb-trail/breadcrumb-trail.php:180
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: tpl/page-title.php:28
+#, php-format
+msgid "Search results for &quot;%s&quot;"
+msgstr ""
+
+#: tpl/comming-soon.php:36
+msgid "SECOND"
+msgstr ""
+
+#: widgets/themesflat_recent_post.php:134
+msgid "Select Category:"
+msgstr ""
+
+#: inc/helpers.php:216 inc/helpers.php:237 inc/helpers.php:258
+#: inc/helpers.php:278 inc/helpers.php:319 inc/helpers.php:340
+#: inc/helpers.php:361 inc/helpers.php:383 inc/helpers.php:405
+#: inc/helpers.php:427 inc/helpers.php:449
+msgid "Select icon from library."
+msgstr ""
+
+#: inc/helpers.php:196
+msgid "Select icon library."
+msgstr ""
+
+#: inc/js_composer.php:10
+msgid "Select Overlay color"
+msgstr ""
+
+#: widgets/themesflat_recent_post.php:150
+#: widgets/themesflat_testimonial.php:104
+msgid "Select style:"
+msgstr ""
+
+#: inc/options/controls/typography.php:64
+msgid "Semi-bold 600"
+msgstr ""
+
+#: inc/options/controls/typography.php:65
+msgid "Semi-bold 600 italic"
+msgstr ""
+
+#: inc/metabox-options.php:31
+msgid "Service"
+msgstr ""
+
+#: tpl/social-share.php:5
+msgid "Share:"
+msgstr ""
+
+#: inc/options/options-definition.php:588
+msgid "Show Bottom"
+msgstr ""
+
+#: widgets/themesflat_recent_post.php:173
+msgid "Show Content ?"
+msgstr ""
+
+#: widgets/themesflat_testimonial.php:116
+msgid "Show Control ?"
+msgstr ""
+
+#: widgets/themesflat_categories.php:99
+msgid "Show count?"
+msgstr ""
+
+#: widgets/themesflat_recent_post.php:177
+msgid "Show Date ?"
+msgstr ""
+
+#: widgets/themesflat_testimonial.php:121
+msgid "Show Direction ?"
+msgstr ""
+
+#: inc/options/options-definition.php:637
+msgid "Show Filter"
+msgstr ""
+
+#: inc/options/options-definition.php:785
+msgid "Show Read More"
+msgstr ""
+
+#: widgets/themesflat_recent_post.php:169
+msgid "Show Thumbnail ?"
+msgstr ""
+
+#: widgets/themesflat_testimonial.php:99
+msgid "Sidebar"
+msgstr ""
+
+#: inc/options/options-definition.php:385
+msgid "Sidebar Left"
+msgstr ""
+
+#: inc/options/options-definition.php:380
+msgid "Sidebar Position"
+msgstr ""
+
+#: inc/options/options-definition.php:386
+msgid "Sidebar Right"
+msgstr ""
+
+#: inc/helpers.php:187
+msgid "Simple Line"
+msgstr ""
+
+#: inc/customizer.php:2809
+msgid "Simple List"
+msgstr ""
+
+#: content-none.php:28
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumb-trail.php:1168
+msgid "Split"
+msgstr ""
+
+#: inc/options/options-definition.php:207
+msgid "Status Portfolio"
+msgstr ""
+
+#: widgets/themesflat_recent_post.php:146
+#: widgets/themesflat_testimonial.php:100
+msgid "Style 1"
+msgstr ""
+
+#: widgets/themesflat_recent_post.php:147
+#: widgets/themesflat_testimonial.php:101
+msgid "Style 2"
+msgstr ""
+
+#: content-portfolio.php:77 content-portfolio.php:126
+msgid "Tags :"
+msgstr ""
+
+#: widgets/themesflat_testimonial.php:35
+msgid "Testimonial"
+msgstr ""
+
+#: inc/metabox-options.php:54 inc/metabox-options.php:59
+#: inc/options/options-definition.php:232
+msgid "Testimonial Details"
+msgstr ""
+
+#. Author of the theme
+msgid "Themesflat"
+msgstr ""
+
+#: widgets/themesflat_categories.php:25
+msgid "Themesflat - Categories"
+msgstr ""
+
+#: widgets/themesflat_contact_us.php:25
+msgid "Themesflat - Contact Us"
+msgstr ""
+
+#: widgets/themesflat_recent_post.php:28
+msgid "themesflat - Recent Post"
+msgstr ""
+
+#: widgets/themesflat_testimonial.php:32
+msgid "Themesflat - Testimonial"
+msgstr ""
+
+#: inc/options/controls/typography.php:52
+msgid "Thin 100"
+msgstr ""
+
+#: inc/options/controls/typography.php:53
+msgid "Thin 100 italic"
+msgstr ""
+
+#: inc/options/options-definition.php:305
+msgid "This is an special option, it allow to set Causes informations."
+msgstr ""
+
+#: inc/options/options-definition.php:193
+msgid "This is an special option, it allow to set Portfolio informations."
+msgstr ""
+
+#: inc/helpers.php:865
+#, php-format
+msgid "This is the %s widget area.Please go to <a href=\"%s\">Admin</a>."
+msgstr ""
+
+#: inc/options/options-definition.php:501
+msgid ""
+"This section allow to change the layout and styles of footer widgets to "
+"match as you need."
+msgstr ""
+
+#: inc/customizer.php:2825
+msgid "Three"
+msgstr ""
+
+#: inc/options/options-definition.php:711
+msgid "Title"
+msgstr ""
+
+#: widgets/themesflat_categories.php:82 widgets/themesflat_contact_us.php:78
+#: widgets/themesflat_recent_post.php:130 widgets/themesflat_testimonial.php:94
+msgid "Title:"
+msgstr ""
+
+#: inc/options/options-definition.php:414
+msgid "Top Bar"
+msgstr ""
+
+#: inc/options/options-definition.php:442
+msgid "Topbar Background"
+msgstr ""
+
+#: inc/options/options-definition.php:449
+msgid "Topbar Text Color"
+msgstr ""
+
+#: inc/options/options-definition.php:415
+msgid "Turn on/off the top bar and change it styles."
+msgstr ""
+
+#: inc/customizer.php:2824
+msgid "Two"
+msgstr ""
+
+#: inc/helpers.php:182
+msgid "Typicons"
+msgstr ""
+
+#: inc/options/controls/typography.php:70
+msgid "Ultra-bold 900"
+msgstr ""
+
+#: inc/options/controls/typography.php:71
+msgid "Ultra-bold 900 italic"
+msgstr ""
+
+#: inc/options/options-definition.php:221
+msgid "Url Client Portfolio"
+msgstr ""
+
+#: woocommerce/templates/single-product/review-meta.php:36
+msgid "verified owner"
+msgstr ""
+
+#: inc/options/controls/typography.php:80
+msgid "Vietnamese"
+msgstr ""
+
+#: woocommerce/init.php:143 woocommerce/init.php:144 woocommerce/init.php:161
+msgid "View your shopping cart"
+msgstr ""
+
+#: 404.php:29
+msgid "We're sorry, but the page you were looking for doesn't exist."
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: inc/breadcrumb-trail/breadcrumb-trail.php:186
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumb-trail.php:793
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/customizer.php:2797 inc/options/options-definition.php:373
+msgid "Wide"
+msgstr ""
+
+#: functions.php:167
+msgid "Woocommerce Sidebar"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumb-trail.php:763
+#: inc/breadcrumb-trail/breadcrumb-trail.php:792
+#: inc/breadcrumb-trail/breadcrumb-trail.php:827
+#: inc/breadcrumb-trail/breadcrumb-trail.php:854
+#: inc/breadcrumb-trail/breadcrumb-trail.php:1041
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: tpl/page-title.php:41
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: inc/options/options-definition.php:560
+msgid ""
+"You can change the copyright text, show/hide the social icons on the footer."
+msgstr ""
+
+#: comments.php:100
+msgid "You Email"
+msgstr ""
+
+#: comments.php:35
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:97
+msgid "Your Name"
+msgstr ""
+
+#: woocommerce/templates/single-product/review-meta.php:28
+msgid "Your review is awaiting approval"
+msgstr ""
