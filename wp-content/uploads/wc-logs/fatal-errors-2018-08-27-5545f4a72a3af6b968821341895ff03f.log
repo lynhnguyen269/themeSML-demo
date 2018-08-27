@@ -1,0 +1,43 @@
+2018-08-27T01:23:40+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-08-27T01:36:49+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-08-27T02:33:50+00:00 CRITICAL Uncaught Error: Call to undefined function int() in D:\xampp\htdocs\web\demoWP\wp-content\themes\standell\inc\template-tags.php:66
+Stack trace:
+#0 D:\xampp\htdocs\web\demoWP\wp-content\themes\standell\footer.php(87): themesflat_widget_layout_copyright('2')
+#1 D:\xampp\htdocs\web\demoWP\wp-includes\template.php(688): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\web\demoWP\wp-includes\template.php(647): load_template('D:\\xampp\\htdocs...', true)
+#3 D:\xampp\htdocs\web\demoWP\wp-includes\general-template.php(76): locate_template(Array, true)
+#4 D:\xampp\htdocs\web\demoWP\wp-content\themes\standell\tpl\front-page.php(18): get_footer()
+#5 D:\xampp\htdocs\web\demoWP\wp-includes\template-loader.php(74): include('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\web\demoWP\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#7 D:\xampp\htdocs\web\demoWP\index.php(17): require('D:\\xampp\\htdocs...')
+#8 {main}
+  thrown
+
+2018-08-27T02:33:56+00:00 CRITICAL Uncaught Error: Call to undefined function int() in D:\xampp\htdocs\web\demoWP\wp-content\themes\standell\inc\template-tags.php:66
+Stack trace:
+#0 D:\xampp\htdocs\web\demoWP\wp-content\themes\standell\footer.php(87): themesflat_widget_layout_copyright('2')
+#1 D:\xampp\htdocs\web\demoWP\wp-includes\template.php(688): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\web\demoWP\wp-includes\template.php(647): load_template('D:\\xampp\\htdocs...', true)
+#3 D:\xampp\htdocs\web\demoWP\wp-includes\general-template.php(76): locate_template(Array, true)
+#4 D:\xampp\htdocs\web\demoWP\wp-content\themes\standell\404.php(36): get_footer()
+#5 D:\xampp\htdocs\web\demoWP\wp-includes\template-loader.php(74): include('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\web\demoWP\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#7 D:\xampp\htdocs\web\demoWP\index.php(17): require('D:\\xampp\\htdocs...')
+#8 {main}
+  thrown
+
+2018-08-27T02:34:44+00:00 CRITICAL Uncaught Error: Call to undefined function int() in D:\xampp\htdocs\web\demoWP\wp-content\themes\standell\inc\template-tags.php:66
+Stack trace:
+#0 D:\xampp\htdocs\web\demoWP\wp-content\themes\standell\footer.php(87): themesflat_widget_layout_copyright('2')
+#1 D:\xampp\htdocs\web\demoWP\wp-includes\template.php(688): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\web\demoWP\wp-includes\template.php(647): load_template('D:\\xampp\\htdocs...', true)
+#3 D:\xampp\htdocs\web\demoWP\wp-includes\general-template.php(76): locate_template(Array, true)
+#4 D:\xampp\htdocs\web\demoWP\wp-content\themes\standell\tpl\front-page.php(18): get_footer()
+#5 D:\xampp\htdocs\web\demoWP\wp-includes\template-loader.php(74): include('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\web\demoWP\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#7 D:\xampp\htdocs\web\demoWP\index.php(17): require('D:\\xampp\\htdocs...')
+#8 {main}
+  thrown
+

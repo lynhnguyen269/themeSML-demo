@@ -1,0 +1,118 @@
+2018-08-23T01:46:05+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-08-23T03:13:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-08-23T03:15:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-08-23T03:16:38+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-08-23T03:18:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-08-23T03:18:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-08-23T03:20:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-08-23T03:21:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-08-23T03:23:40+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in D:\xampp\htdocs\web\demoWP\wp-content\plugins\themesflat\includes\admin\sample-data.php:198
+Stack trace:
+#0 D:\xampp\htdocs\web\demoWP\wp-content\plugins\themesflat\includes\admin\sample-data.php(277): themesflat_Import_Demo->multi_import()
+#1 D:\xampp\htdocs\web\demoWP\wp-includes\class-wp-hook.php(286): themesflat_Import_Demo->themesflat_run('')
+#2 D:\xampp\htdocs\web\demoWP\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 D:\xampp\htdocs\web\demoWP\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\web\demoWP\wp-admin\admin-ajax.php(100): do_action('wp_ajax_sample_...')
+#5 {main}
+  thrown
+
+2018-08-23T03:54:20+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in D:\xampp\htdocs\web\demoWP\wp-content\plugins\themesflat\includes\admin\sample-data.php:198
+Stack trace:
+#0 D:\xampp\htdocs\web\demoWP\wp-content\plugins\themesflat\includes\admin\sample-data.php(277): themesflat_Import_Demo->multi_import()
+#1 D:\xampp\htdocs\web\demoWP\wp-includes\class-wp-hook.php(286): themesflat_Import_Demo->themesflat_run('')
+#2 D:\xampp\htdocs\web\demoWP\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 D:\xampp\htdocs\web\demoWP\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\web\demoWP\wp-admin\admin-ajax.php(100): do_action('wp_ajax_sample_...')
+#5 {main}
+  thrown
+
+2018-08-23T03:54:33+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in D:\xampp\htdocs\web\demoWP\wp-content\plugins\themesflat\includes\admin\sample-data.php:198
+Stack trace:
+#0 D:\xampp\htdocs\web\demoWP\wp-content\plugins\themesflat\includes\admin\sample-data.php(277): themesflat_Import_Demo->multi_import()
+#1 D:\xampp\htdocs\web\demoWP\wp-includes\class-wp-hook.php(286): themesflat_Import_Demo->themesflat_run('')
+#2 D:\xampp\htdocs\web\demoWP\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 D:\xampp\htdocs\web\demoWP\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\web\demoWP\wp-admin\admin-ajax.php(100): do_action('wp_ajax_sample_...')
+#5 {main}
+  thrown
+
+2018-08-23T04:11:41+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in D:\xampp\htdocs\web\demoWP\wp-content\plugins\themesflat\includes\admin\sample-data.php:198
+Stack trace:
+#0 D:\xampp\htdocs\web\demoWP\wp-content\plugins\themesflat\includes\admin\sample-data.php(277): themesflat_Import_Demo->multi_import()
+#1 D:\xampp\htdocs\web\demoWP\wp-includes\class-wp-hook.php(286): themesflat_Import_Demo->themesflat_run('')
+#2 D:\xampp\htdocs\web\demoWP\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 D:\xampp\htdocs\web\demoWP\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\web\demoWP\wp-admin\admin-ajax.php(100): do_action('wp_ajax_sample_...')
+#5 {main}
+  thrown
+
+2018-08-23T04:49:52+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in D:\xampp\htdocs\web\demoWP\wp-content\plugins\themesflat\includes\admin\sample-data.php:198
+Stack trace:
+#0 D:\xampp\htdocs\web\demoWP\wp-content\plugins\themesflat\includes\admin\sample-data.php(277): themesflat_Import_Demo->multi_import()
+#1 D:\xampp\htdocs\web\demoWP\wp-includes\class-wp-hook.php(286): themesflat_Import_Demo->themesflat_run('')
+#2 D:\xampp\htdocs\web\demoWP\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 D:\xampp\htdocs\web\demoWP\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\web\demoWP\wp-admin\admin-ajax.php(100): do_action('wp_ajax_sample_...')
+#5 {main}
+  thrown
+
+2018-08-23T04:50:39+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in D:\xampp\htdocs\web\demoWP\wp-content\plugins\themesflat\includes\admin\sample-data.php:198
+Stack trace:
+#0 D:\xampp\htdocs\web\demoWP\wp-content\plugins\themesflat\includes\admin\sample-data.php(277): themesflat_Import_Demo->multi_import()
+#1 D:\xampp\htdocs\web\demoWP\wp-includes\class-wp-hook.php(286): themesflat_Import_Demo->themesflat_run('')
+#2 D:\xampp\htdocs\web\demoWP\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 D:\xampp\htdocs\web\demoWP\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\web\demoWP\wp-admin\admin-ajax.php(100): do_action('wp_ajax_sample_...')
+#5 {main}
+  thrown
+
+2018-08-23T04:50:52+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in D:\xampp\htdocs\web\demoWP\wp-content\plugins\themesflat\includes\admin\sample-data.php:198
+Stack trace:
+#0 D:\xampp\htdocs\web\demoWP\wp-content\plugins\themesflat\includes\admin\sample-data.php(277): themesflat_Import_Demo->multi_import()
+#1 D:\xampp\htdocs\web\demoWP\wp-includes\class-wp-hook.php(286): themesflat_Import_Demo->themesflat_run('')
+#2 D:\xampp\htdocs\web\demoWP\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 D:\xampp\htdocs\web\demoWP\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\web\demoWP\wp-admin\admin-ajax.php(100): do_action('wp_ajax_sample_...')
+#5 {main}
+  thrown
+
+2018-08-23T06:55:34+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-08-23T06:56:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-08-23T06:57:54+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-08-23T06:58:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-08-23T06:59:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-08-23T07:00:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-08-23T07:02:21+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-08-23T07:03:22+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-08-23T07:03:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-08-23T07:04:23+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-08-23T07:04:53+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-08-23T07:06:55+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in D:\xampp\htdocs\web\demoWP\wp-content\plugins\themesflat\includes\admin\sample-data.php:198
+Stack trace:
+#0 D:\xampp\htdocs\web\demoWP\wp-content\plugins\themesflat\includes\admin\sample-data.php(277): themesflat_Import_Demo->multi_import()
+#1 D:\xampp\htdocs\web\demoWP\wp-includes\class-wp-hook.php(286): themesflat_Import_Demo->themesflat_run('')
+#2 D:\xampp\htdocs\web\demoWP\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 D:\xampp\htdocs\web\demoWP\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\web\demoWP\wp-admin\admin-ajax.php(100): do_action('wp_ajax_sample_...')
+#5 {main}
+  thrown
+

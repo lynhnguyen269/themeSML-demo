@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Rubik Bold';
+    src: url('../fonts/rubik-bold.eot');
+    src: url('../fonts/rubik-bold.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/rubik-bold.woff2') format('woff2'),
+         url('../fonts/rubik-bold.woff') format('woff'),
+         url('../fonts/rubik-bold.ttf') format('truetype'),
+         url('../fonts/rubik-bold.svg#rubikbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rubik Medium';
+    src: url('../fonts/rubik-medium.eot');
+    src: url('../fonts/rubik-medium.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/rubik-medium.woff2') format('woff2'),
+         url('../fonts/rubik-medium.woff') format('woff'),
+         url('../fonts/rubik-medium.ttf') format('truetype'),
+         url('../fonts/rubik-medium.svg#rubikmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rubik Regular';
+    src: url('../fonts/rubik-regular.eot');
+    src: url('../fonts/rubik-regular.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/rubik-regular.woff2') format('woff2'),
+         url('../fonts/rubik-regular.woff') format('woff'),
+         url('../fonts/rubik-regular.ttf') format('truetype'),
+         url('../fonts/rubik-regular.svg#rubikregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
